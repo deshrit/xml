@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<?xml-stylesheet type="text/xsl" href="styles.xsl" ?>
+
+<studentlist>
+	<student>
+		<name>Deshrit Baral</name>
+		<roll>THA075BEI049</roll>
+		<faculty>BEI</faculty>
+	</student>
+	<student>
+		<name>Sabin Thapa</name>
+		<roll>THA075BEI056</roll>
+		<faculty>BEI</faculty>
+	</student>
+	<student>
+		<name>Robin Shrestha</name>
+		<roll>THA075BEI057</roll>
+		<faculty>BEI</faculty>
+	</student>
+</studentlist>
